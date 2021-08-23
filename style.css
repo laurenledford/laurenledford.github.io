@@ -10,12 +10,15 @@
 
 }
 
+.content { 
+	padding: 15px;
+}
+
 body {
 	background: grey
 }
 
 img {
-	display: inline-block;
 	float: right;
 	padding-top: 50px;
 
@@ -38,7 +41,7 @@ h2, h4 {
 	padding: .04px;
   }
 
-  .footer {
+.footer {
 	  padding: 2px;
 	  text-align: left;
 	  background-color: #4b9cd3;
